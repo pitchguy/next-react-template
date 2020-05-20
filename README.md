@@ -1,4 +1,4 @@
-# pc-vue
+# next-react-template
 
 > A Vue.js project
 
